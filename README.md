@@ -4,3 +4,5 @@
 
 - Formularis
 - Diapositives de teoria
+- Projecte B7
+- Taules
